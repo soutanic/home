@@ -1,12 +1,4 @@
 <DOCTYPE html>
-<head>
-<title>sota005ホームページ</title>
-	<style>
-		h1{
-			color: black;
-			}
-   </style>
-	</head>
 <body>
 <title>sota005ホームページ</title>
 <h1>sota005ホームページ</h1>
