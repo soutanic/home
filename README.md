@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="ja">
 <head>
-    <link rel="stylesheet" type="text/css" href="styles">
+    <link rel="stylesheet" type="text/css" href="styles" type="text/css">
 </head>
 <body>
     <h1>sota005ホームページ</h1>
