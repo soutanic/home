@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="ja">
 <head>
-  <link rel="stylesheet" href="https://soutanic.github.io/home/styles.css" />
+  <link rel="stylesheet" href="https://soutanic.github.io/home/style.css" />
 </head>
 <body>
     <h1>sota005ホームページ</h1>
