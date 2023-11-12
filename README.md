@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="ja">
 <head>
-  <link rel="stylesheet" href="https://daiki-oshima.github.io/2021-dopf/css/style.css" />
+  <link rel="stylesheet" href="https://github.com/soutanic/home/blob/main/styles.css/" />
 </head>
 <body>
     <h1>sota005ホームページ</h1>
