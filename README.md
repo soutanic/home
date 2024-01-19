@@ -1,7 +1,7 @@
 <DOCTYPE html>
 <head>
   <link rel='stylesheet' href='style.css' type='text/css'>
-  <script src='home_script.js'>
+  <script src='home_script.js'></script>
 </head>
 <body>
 <h1>sota005ホームページ</h1>
