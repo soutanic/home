@@ -1,6 +1,6 @@
 <DOCTYPE html>
 <head>
-  <link type="text/css" rel="stylesheet" href="home/styles.css" media="screen,projection"/>
+  <link rel='stylesheet' href='style.css' type='text/css'>
 </head>
 <body>
 <h1>sota005ホームページ</h1>
