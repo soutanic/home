@@ -13,5 +13,5 @@
 <br>
 <a href="https://soutanic.github.io/home_hobby/">趣味</a>
 <br>
-<a href="https://soutanic.github.io/sotanic_site/">自分が作ったサイト</a>
+<a href="https://soutanic.github.io/sotanic_site/">自作サイト</a>
 </body>
