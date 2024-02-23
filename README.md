@@ -1,4 +1,5 @@
 <DOCTYPE html>
+<html lang="ja">
 <head>
   <link rel='stylesheet' href='style.css' type='text/css'>
   <script src='home_script.js'></script>
@@ -17,3 +18,4 @@
 <br>
 <a href="https://github.com/soutanic/">Github</a>
 </body>
+</html>
